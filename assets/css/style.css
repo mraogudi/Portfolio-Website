@@ -459,11 +459,9 @@ header .navbar ul li a:hover {
 .skills {
   min-height: 90vh;
 }
-.skills h2 {
-  color: #fff;
-}
+
 .skills .heading span {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 230, 0);
 }
 
 .skills .container {
@@ -755,7 +753,9 @@ header .navbar ul li a:hover {
   transform: translateX(5px);
 }
 /* work section ends */
-
+.experience .heading span {
+  color: seagreen;
+}
 /* experience section starts */
 .experience .timeline {
   position: relative;
